@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Clrscr
 ======
 
@@ -30,3 +31,9 @@ OR
         clrscr.exe
 ```
 on a windows computer.
+=======
+ClearConsole
+============
+
+A C program to detect Operating System and clear console window.
+>>>>>>> c387c480f15e958ef0abd956b6072e44b1cdd708
